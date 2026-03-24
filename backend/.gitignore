@@ -2,3 +2,6 @@
 ./dist/
 ./node_modules  
 ./.env
+.env-n
+.env
+node_modules
